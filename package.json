@@ -1,0 +1,19 @@
+{
+  "name": "legmedejs",
+  "version": "1.0.0",
+  "description": "Leg med EJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quvang/legmedejs.git"
+  },
+  "author": "SUNE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Quvang/legmedejs/issues"
+  },
+  "homepage": "https://github.com/Quvang/legmedejs#readme"
+}
