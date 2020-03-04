@@ -1,0 +1,51 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+header {
+  padding: 10px;
+  display: flex;
+  width: 100%;
+  background-color: #ccc;
+}
+
+.logo {
+  width:70%;
+  float: left;
+}
+
+.menu {
+  width: 30%;
+  float: right;
+}
+
+ul {
+  float: left;
+}
+
+ul li {
+  float: left;
+  list-style: none;
+  font-size: 18px;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  padding: 10px;
+  color: #000000;
+}
+
+
+ul li a:hover {
+  display: block;
+  text-decoration: none;
+  padding: 10px;
+  color: #FFFFFF;
+}
